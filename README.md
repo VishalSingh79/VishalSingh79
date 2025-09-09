@@ -1,5 +1,3 @@
-
-## Hi there 👋
 # 💫 About Me:
 I'm a passionate Computer Science undergrad and a self-driven developer who loves building real-world projects. I specialize in React Native, Node.js, and full-stack development, with experience in scalable apps like a Vartalap app and Notion Academy. I enjoy solving problems with code, contributing to impactful projects, and exploring new tech like AI, LangChain, and cloud services.<br><br>Currently diving deeper into mobile development, system design, and real-time apps.<br><br>Let’s connect and build something awesome! 
 
