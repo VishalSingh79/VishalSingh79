@@ -11,43 +11,19 @@
 
 - 🌱 I'm passionate about **Full-Stack Development and Mobile App Development**
 
-- 💻 I specialize in **MERN Stack, React Native, and Real-time Applications**
-
 - 📫 How to reach me **singhvishal686030@gmail.com**
+
+- 📱 Contact: **+91-7905248829**
 
 - 🏆 **4th rank** in college coding competition among 200+ participants
 
 - 🎯 **Smart India Hackathon 2023** Qualifier
-
-- 👨‍💻 Check out my projects: **Vartalap App, Taskify App, Notion Academy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishalsingh79" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Vishal_Singh79" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalsingh79" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://socket.io" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
 
 ## 💼 Professional Experience
 
@@ -61,6 +37,99 @@
 - Enhanced Redux state management across 15+ components
 - Integrated Razorpay with 99.5% transaction success rate
 
+
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Frontend Technologies
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #ffffff; border-radius: 8px;"/> 
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #61DAFB; border-radius: 8px;"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #F7DF1E; border-radius: 8px;"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #E34F26; border-radius: 8px;"/> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #1572B6; border-radius: 8px;"/> 
+</a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #764ABC; border-radius: 8px;"/> 
+</a>
+</p>
+
+### ⚙️ Backend Technologies
+<p align="left">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #339933; border-radius: 8px;"/> 
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #000000; border-radius: 8px;"/> 
+</a>
+<a href="https://socket.io" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="50" height="50" style="margin: 5px; padding: 8px; background-color: #010101; border-radius: 8px;"/> 
+</a>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #47A248; border-radius: 8px;"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #4479A1; border-radius: 8px;"/> 
+</a>
+</p>
+
+### ☁️ Cloud & Services
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #FF9900; border-radius: 8px;"/> 
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #FFCA28; border-radius: 8px;"/> 
+</a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #000000; border-radius: 8px;"/> 
+</a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #00C7B7; border-radius: 8px;"/> 
+</a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=render" alt="Render" width="50" height="50" style="margin: 5px; padding: 8px; background-color: #46E3B7; border-radius: 8px;"/> 
+</a>
+</p>
+
+### 💻 Programming Languages
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #A8B9CC; border-radius: 8px;"/> 
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #00599C; border-radius: 8px;"/> 
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #3776AB; border-radius: 8px;"/> 
+</a>
+</p>
+
+### 🔧 Development Tools
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #F05032; border-radius: 8px;"/> 
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #181717; border-radius: 8px;"/> 
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" style="margin: 5px; padding: 5px; background-color: #FF6C37; border-radius: 8px;"/> 
+</a>
+</p>
 
 
 ## 🚀 Featured Projects
@@ -89,7 +158,6 @@
 - 🥉 **4th Rank** in Code-o-Fiesta (200+ participants)  
 - 🚀 **Smart India Hackathon 2023** Qualifier
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
